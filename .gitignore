@@ -31,7 +31,7 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-pubspec.lock 
+pubspec.lock
 # (İsteğe bağlı, ancak uygulamalarda genellikle `.gitignore`'a dahil edilir veya edilmez; başlangıçta bırakabilirsin)
 /build/
 /coverage/
